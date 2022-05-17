@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Nomad</string>
+    <string name="explore_message">Explore the Beautiful World,
+As Easy One Click</string>
+    <string name="explore_sub_message">You will see beautiful
+moment you see before</string>
+    <string name="get_started">Get Started</string>
+    <string name="navigation_icon_desc">Navigation drawer icon</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="view_details">View Details</string>
+    <string name="indonesia_name">Indonesia</string>
+    <string name="middle_east_name">Middle East</string>
+    <string name="bali_city_name">Bali</string>
+    <string name="nusa_city_name">Nusa Penida</string>
+    <string name="malang_city_name">Malang</string>
+    <string name="dubai_city_name">Dubai</string>
+
+</resources>
